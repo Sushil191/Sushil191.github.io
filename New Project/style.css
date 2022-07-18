@@ -82,7 +82,7 @@
   .showcase {
     grid-area: showcase;
     min-height: 400px;
-    background: url(/zoo.jpg);
+    background: url(./zoo.jpg);
     background-size: cover;
     background-position: center;
     padding: 3rem;
@@ -121,13 +121,13 @@
   
   .top-box-a {
     grid-area: top-box-a;
-    background: url('/monkey.jpg')no-repeat center center/cover;
+    background: url('./monkey.jpg')no-repeat center center/cover;
     color: white;
   }
   
   .top-box-b {
     grid-area: top-box-b;
-    background: url('/tiger.jpg')no-repeat center center/cover;
+    background: url('./tiger.jpg')no-repeat center center/cover;
     color: white;
 
   }
@@ -150,22 +150,22 @@
   }
 
   .jeepSafari{
-    background: url('/Jeepsafari.jpg') no-repeat center center/cover;
+    background: url('./Jeepsafari.jpg') no-repeat center center/cover;
     color:white;
     /* opacity: 0.7; */
   }
   .elephantBath{
-    background: url('/EBath.jpg') no-repeat center center/cover;
+    background: url('./EBath.jpg') no-repeat center center/cover;
     color:white;
 
   }
   .elephantRide{
-    background: url('/Eride.jpg') no-repeat center center/cover;
+    background: url('./Eride.jpg') no-repeat center center/cover;
     color:rgb(255, 255, 255);
 
   }
   .groupHiking{
-    background: url('/Hiking.jpg') no-repeat center center/cover;
+    background: url('./Hiking.jpg') no-repeat center center/cover;
     color:rgb(255, 255, 255);
 
   }
